@@ -1,0 +1,7 @@
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\bin\Debug\PizzaToppings.exe.config
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\bin\Debug\PizzaToppings.exe
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\bin\Debug\PizzaToppings.pdb
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\bin\Debug\Newtonsoft.Json.dll
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\bin\Debug\Newtonsoft.Json.xml
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\obj\Debug\PizzaToppings.exe
+c:\users\root-wm7\documents\visual studio 2013\Projects\PizzaToppings\PizzaToppings\obj\Debug\PizzaToppings.pdb
